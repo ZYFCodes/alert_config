@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: alert-config
+
+server:
+  port: 8076
+
+
+logging:
+  path: "/tmp/alert-config.log"
